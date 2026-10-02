@@ -396,12 +396,6 @@ Possible future improvements include:
 
 ---
 
-# 👩‍💻 Author
-
-**Ayushi Sharma**
-
-B.Tech Computer Science Engineering  
-Chitkara University
 
 ### GitHub
 
